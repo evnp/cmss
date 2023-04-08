@@ -1,0 +1,9 @@
+{
+  "entry": "./src/cmss.ts",
+  "outfile": "./dist/cmss.min.js",
+  "loader": { ".ts": "ts" },
+  "bundle": true,
+  "minify": true,
+  "format": "cjs",
+  "target": "esnext"
+}
